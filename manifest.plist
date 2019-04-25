@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://imzhang001.github.io/hansonic-ios.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://imzhang001.github.io/img57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://imzhang001.github.io/img512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
