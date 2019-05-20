@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hansonic-ios</string>
 				<key>bundle-version</key>
-				<string>1.001</string>
+				<string>1.002</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HS</string>
+				<string>hansonic-ios</string>
 			</dict>
 		</dict>
 	</array>
